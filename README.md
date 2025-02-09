@@ -11,9 +11,6 @@ Try out the application here: [India Rainfall Predictor](https://rainfall-predic
 - [Usage](#usage)
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## ✨ Features
 - Predicts next month's rainfall based on previous 3 months' data
@@ -27,8 +24,8 @@ Try out the application here: [India Rainfall Predictor](https://rainfall-predic
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/india-rainfall-prediction.git
-cd india-rainfall-prediction
+git clone https://github.com/NISHANTH1107/Indian-Rainfall-Prediction-App.git
+cd Indian-Rainfall-Prediction-App
 ```
 
 2. Create a Virtual Environment (optional)
