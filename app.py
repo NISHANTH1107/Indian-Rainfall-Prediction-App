@@ -54,6 +54,7 @@ if st.button('Predict Rainfall'):
         
         # Display result
         st.success(f'Predicted rainfall for next month in {selected_state}: {prediction[0]:.2f} mm')
+        st.info('The prediction is based on the rainfall data between 1901-2015.')
         
         # Create a simple visualization
         import plotly.graph_objects as go
