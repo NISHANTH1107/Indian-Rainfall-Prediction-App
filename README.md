@@ -3,7 +3,7 @@
 A machine learning application that predicts monthly rainfall across different states in India using historical data from 1901-2015.
 
 ## 🌐 Live Demo
-Try out the application here: [India Rainfall Predictor](https://rainfall-prediction-india.streamlit.app)
+Try out the application here: [India Rainfall Predictor](https://indian-rainfall-prediction-app.streamlit.app)
 
 ## 📌 Table of Contents
 - [Features](#features)
